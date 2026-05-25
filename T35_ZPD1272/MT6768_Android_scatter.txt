@@ -834,20 +834,4 @@
   empty_boot_needed: false
   reserve: 0x00
 
-- partition_index: SYS48
-  partition_name: Unalloc_488554432_488554462
-  file_name: NONE
-  is_download: false
-  type: NORMAL_ROM
-  linear_start_addr: 0x3A3D7F8000
-  physical_start_addr: 0x3A3D7F8000
-  partition_size: 0x3E00
-  region: EMMC_USER
-  storage: HW_STORAGE_EMMC
-  boundary_check: false
-  is_reserved: false
-  operation_type: UPDATE
-  is_upgradable: true
-  empty_boot_needed: false
-  reserve: 0x00
 
