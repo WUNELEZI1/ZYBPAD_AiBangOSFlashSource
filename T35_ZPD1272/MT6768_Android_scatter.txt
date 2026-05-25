@@ -833,5 +833,3 @@
   is_upgradable: false
   empty_boot_needed: false
   reserve: 0x00
-
-
